@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>চিরকুটের জগতে স্বাগতম</title>
 
-  <!-- CSS styling -->
+  <!-- CSS Styling -->
   <style>
     body {
       background-color: #f9f9f9;
@@ -14,14 +14,14 @@
       padding: 20px;
     }
     h1 {
-      color: #0077cc;
+      color: #0066cc;
     }
     p {
       font-size: 18px;
+      margin-bottom: 20px;
     }
     img {
-      margin-top: 20px;
-      width: 80%;
+      width: 85%;
       max-width: 400px;
       border-radius: 12px;
       box-shadow: 0 4px 8px rgba(0,0,0,0.2);
@@ -29,14 +29,11 @@
   </style>
 </head>
 <body>
+
   <h1>স্বাগতম!</h1>
   <p>এখানে আপনি পাবেন আপনার পছন্দের সব ছোট ক্যাপশন এবং চিরকুট।</p>
 
-  <!-- ✅ ছবিটি এখানে বসান -->
-  <img src="https://i.ibb.co/MZD5x3r/love-letter.jpg" alt="চিরকুট">
+  <img src="https://i.postimg.cc/d3X44N7s/a568feb95e0a0be115ec2a70df46fdf3.jpg" alt="চিরকুটের ছবি">
 
 </body>
 </html>
-
-মনে পড়ে সেদিন এর কথা,
-এখান থেকেই শুরু এখান থেকেই শেষ 
